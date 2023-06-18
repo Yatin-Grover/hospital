@@ -1,0 +1,82 @@
+.footer{
+    border: 2px solid black;
+    height:28rem;
+    width:99.9vw;
+    position: relative;
+    display: block;
+    padding-top: 80px;
+    padding-bottom: 16px;
+    background-color: #2D3B38;
+    color: #fff;
+    padding: 50px;
+    padding-left: 170px;
+    padding-right: 140px;
+}
+
+.page-footer {
+    position: relative;
+    display: block;
+    padding-top: 80px;
+    padding-bottom: 16px;
+    background-color: #2D3B38;
+    color: #fff;
+  }
+  
+  .page-footer h5 {
+    font-weight: 500;
+    margin-bottom: 16px;
+  }
+  
+  .page-footer hr {
+    border-color: #4F5E5B;
+    /* margin-top: 30px; */
+  }
+  
+  .footer-menu {
+    position: relative;
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .footer-menu a,
+  .footer-link {
+    display: inline-block;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    color: rgba(255, 255, 255, 0.6);
+    transition: all .2s ease;
+    text-decoration: none;
+  }
+  
+  .footer-menu a:hover,
+  .footer-link:hover {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .footer-link {
+    padding: 0;
+    margin-bottom: 16px;
+  }
+  
+  .footer-sosmed a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 33px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 23px;
+    background-color: #26312F;
+    color: #ffff;
+    transition: all 1s ease;
+  }
+  
+  .footer-sosmed a:hover {
+    background-image: linear-gradient(rgb(48, 165, 165), rgb(37, 215, 215), rgb(32, 198, 198));
+    text-decoration: none;
+  }
+#copyright a{
+    text-decoration: none;
+    color: rgb(43, 226, 226);
+}

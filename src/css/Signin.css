@@ -1,0 +1,70 @@
+#heart{
+    width:50rem;
+    height:40rem;
+    border-radius: 20px;
+    margin-left: -133px;
+}
+#forma{
+    border: 1px solid black;
+    border-radius: 5px;
+    width:28rem;
+    height:25rem;
+    margin: 20px;
+    padding: 25px;
+    /* z-index:-10; */
+    box-shadow: 2px 2px gray;
+    margin-left: 100px;
+}
+h3{
+    color: black;
+    margin-top: -10px;
+}
+p{
+    color: grey;
+}
+hr{
+    color: grey;
+}
+#p1{
+    margin-left: 25px;
+    margin-top: -18px
+}
+#p2{
+    margin-top: 13px;
+    margin-left: 50px;
+}
+#signup {
+    /* border: 2px solid black; */
+    margin-left: 245px;
+    margin-top: -2.6rem;
+    position: absolute;
+}
+label{
+    color: black;
+    display: block;
+    margin-bottom: 12px;
+}
+input{
+    display: block;
+    width:100%;
+border-radius: 2px;
+padding: 2px;
+}
+#checkbox{
+    margin-left: -12rem;
+    margin-top: -1px;
+}
+#submit{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 25%;
+    height: 33px;
+    margin-top: 10px;
+}
+
+/* label{ */
+    /* margin-top: ; */
+    /* position: relative; */
+/* } */

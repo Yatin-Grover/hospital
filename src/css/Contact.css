@@ -1,0 +1,74 @@
+#sectiony h1{
+    text-align: center;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+margin-top: -35rem;
+/* margin-left: 20rem; */
+position: absolute;
+}
+
+#doct{
+    width:40rem;
+    height:30rem;
+    border-radius: 20px;
+    margin-left: -100px;
+    margin-bottom: -50px;
+}
+#formc{
+    border: 1px solid black;
+    border-radius: 5px;
+    width:33rem;
+    height:27rem;
+    margin: 20px;
+    padding: 25px;
+    /* z-index:-10; */
+    box-shadow: 2px 2px gray;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+h3{
+    color: black;
+    margin-top: -10px;
+}
+p{
+    color: grey;
+}
+hr{
+    color: grey;
+}
+
+#signup {
+    /* border: 2px solid black; */
+    margin-left: 245px;
+    margin-top: -2.6rem;
+    position: absolute;
+}
+label{
+    color: black;
+    display: block;
+    margin-bottom: 12px;
+}
+input{
+    display: block;
+    width:100%;
+border-radius: 2px;
+padding: 2px;
+}
+
+#submit{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 25%;
+    height: 33px;
+    margin-top: 10px;
+}
+#message{
+    height:5rem;
+}
+
+/* label{ */
+    /* margin-top: ; */
+    /* position: relative; */
+/* } */

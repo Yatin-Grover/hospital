@@ -1,0 +1,31 @@
+.reports{
+    /* border: 1px solid black; */
+    width:40rem;
+    height: 35rem;
+    margin-top: 1rem;
+    margin-left: 29rem;
+}
+#sectionh h1{
+    color: rgb(15, 15, 141);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+margin-top: -39.5rem;
+    /* margin-left: 35rem; */
+text-align: center;
+}
+.reports img{
+    width:40rem;
+    height: 35rem;
+}
+#photo{
+    width:99.9vw;
+    height:40rem;
+}
+#btnpdf{
+    margin-top: -40rem;
+    margin-left: -20rem;
+}
+
+#PDFViewer{
+    margin-top: -40rem;
+
+}

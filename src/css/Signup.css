@@ -1,0 +1,83 @@
+#heart{
+    width:50rem;
+    height:40rem;
+    border-radius: 20px;
+    margin-left: -133px;
+}
+section form{
+    border: 1px solid black;
+    border-radius: 5px;
+    width:28rem;
+    height:37rem;
+    margin: 20px;
+    padding: 25px;
+    /* z-index:-10; */
+    box-shadow: 2px 2px gray;
+    margin-left: 100px;
+}
+#form1{
+    margin-top: 30px;
+}
+#form1 input{
+    margin-top: -3px;
+}
+h3{
+    color: black;
+    margin-top: -10px;
+}
+p{
+    color: grey;
+}
+hr{
+    color: grey;
+}
+#p1{
+    margin-left: 25px;
+    margin-top: -18px
+}
+#p3{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.link {
+    /* border: 2px solid black; */
+    margin-left: 240px;
+    margin-top: -2rem;
+    position: absolute;
+}
+label{
+    color: black;
+    display: block;
+    margin-bottom: 4px;
+}
+input{
+    display: block;
+    width:100%;
+border-radius: 2px;
+padding: 2px;
+}
+#checkbox{
+    margin-left: -12rem;
+    margin-top: -1px;
+}
+#submit1{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 5%;
+    height: 33px;
+    margin-top: -10px;
+    margin-left: 10px;
+    align-content: center;
+    padding: 5px;
+}
+
+#signin{
+    margin-left: 16.5rem;
+    margin-top: -40px;
+}
+/* label{ */
+    /* margin-top: ; */
+    /* position: relative; */
+/* } */
